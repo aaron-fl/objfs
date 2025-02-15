@@ -1,0 +1,13 @@
+/local/
+/docs/gen/
+/docs/_dist/
+/.python/
+.pytest_cache
+.vscode
+docs/gen
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.nvmrc
+.DS_Store%    

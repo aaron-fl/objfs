@@ -1,0 +1,13 @@
+#(python)?\s*3\.(10|11)\..*
+wcwidth
+pytest
+pytest-asyncio
+sphinx-rtd-theme
+sphinxcontrib-mermaid
+sphinx-markdown-builder
+myst-parser
+Pygments
+pycryptodome
+PyYAML
+paramiko
+reedsolo
